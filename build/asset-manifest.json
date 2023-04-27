@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dd0edbe6.chunk.css",
+    "main.js": "/static/js/main.26fd369c.chunk.js",
+    "main.js.map": "/static/js/main.26fd369c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ece19bdb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ece19bdb.js.map",
+    "static/css/2.d6aa583f.chunk.css": "/static/css/2.d6aa583f.chunk.css",
+    "static/js/2.5680dc1b.chunk.js": "/static/js/2.5680dc1b.chunk.js",
+    "static/js/2.5680dc1b.chunk.js.map": "/static/js/2.5680dc1b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d6aa583f.chunk.css.map": "/static/css/2.d6aa583f.chunk.css.map",
+    "static/css/main.dd0edbe6.chunk.css.map": "/static/css/main.dd0edbe6.chunk.css.map",
+    "static/js/2.5680dc1b.chunk.js.LICENSE.txt": "/static/js/2.5680dc1b.chunk.js.LICENSE.txt",
+    "static/media/simple-line-icons.css": "/static/media/Simple-Line-Icons.f1515a45.svg",
+    "static/media/flag-icons.min.css": "/static/media/zw.cd37458b.svg",
+    "static/media/react.scss": "/static/media/profile-cover.0dc99654.jpg",
+    "static/media/all.css": "/static/media/fa-v4compatibility.e314b618.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ece19bdb.js",
+    "static/css/2.d6aa583f.chunk.css",
+    "static/js/2.5680dc1b.chunk.js",
+    "static/css/main.dd0edbe6.chunk.css",
+    "static/js/main.26fd369c.chunk.js"
+  ]
+}
