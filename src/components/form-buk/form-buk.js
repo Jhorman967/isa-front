@@ -137,6 +137,7 @@ export default function FormBuk({ orderEdit, toggle, dStart }) {
               className="input-form"
               {...register("vendor")}
               placeholder="Insert vendor"
+              required
             />
           </div>
         </div>
@@ -152,6 +153,7 @@ export default function FormBuk({ orderEdit, toggle, dStart }) {
               className="input-form"
               {...register("contact")}
               placeholder="Insert contact"
+              required
             />
           </div>
         </div>
@@ -240,6 +242,7 @@ export default function FormBuk({ orderEdit, toggle, dStart }) {
               className="input-form"
               {...register("product")}
               placeholder="Insert product"
+              required
             />
           </div>
         </div>
